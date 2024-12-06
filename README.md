@@ -1,4 +1,4 @@
-# IntroToDS_Project_03
+# Project 1 & 2
 # Telco Customer Churn Prediction
 
 ## Project Description
